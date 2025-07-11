@@ -1,0 +1,18 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: url(https://i.pinimg.com/1200x/eb/54/30/eb54309db1fd50b5168c9f7145e8dead.jpg ) no-repeat center fixed;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 20px
+
+}
+/*estilo*/
+canvas{
+    background: rgb(87, 18, 18);
+    display: block;
+    margin: 20px auto;
+    border: 2px solid rgb(0, 0, 0);
+
+}
